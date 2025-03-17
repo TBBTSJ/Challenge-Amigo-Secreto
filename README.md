@@ -2,6 +2,38 @@
 
 <h2 alingn="center"> ¡Ingresa los nombres de tus amigos y sortealos para elegir a tu amigo secreto! </h2>
 
+<h4> Primero, veremos la funcionalidad de este proyecto y al final, anexaremos los código utilizados. </h4>
+<h5>Esta es la pantalla principal:</h5>
+
+![image](https://github.com/user-attachments/assets/2ae8d77e-3379-4280-a3f2-797dfac2c0e9)
+
+<h5>Ingresa los nombres de tus amigos :smile:</h5>
+<h5>Cada que escribas un nombre, debes dar click en el botón "Añadir" para poder guardarlo.</h5>
+
+![image](https://github.com/user-attachments/assets/6d3167d9-b989-4c35-ac4e-4fe884d36715)
+
+![image](https://github.com/user-attachments/assets/cd9c4268-ebdc-40b6-acad-dcdc024307a6)
+
+<h5>Entonces los nombres de tus amigos se irán agregando a la lista que aparece abajo: :point_down:</h5>
+
+![image](https://github.com/user-attachments/assets/38498703-f95d-4bd9-be11-34fdb9be6666)
+
+<h5>Nota: Si le das click al botón "Añadir" sin haber escrito el nombre de tu amigo, te aparecerá un cuadro de texto con la siguiente alerta:</h5>
+
+![image](https://github.com/user-attachments/assets/83fb20d6-530b-43cc-99ae-bc89ed071a58)
+
+<h5>¿Estás listo para realizar el sorteo y saber quién será tu amigo secreto?</h5>
+<h4> :exclamation: :grey_question: :sparkles: </h4>
+<h5>Lo que tenemos que hacer es dar click en el botón "Sortear amigo" </h5>
+
+![image](https://github.com/user-attachments/assets/3572c1a5-4e08-4774-b72d-c73d1f62ed7c)
+
+<h5> ¡Listo, aquí está tu amigo secreto! </h5>
+
+![image](https://github.com/user-attachments/assets/acacdc27-5bf6-480e-8b15-d292f3a49ed9)
+
+<h5> A continuación agrego el código. </h5>
+
 Tenemos el codigo HTML y CSS proporcionados por Alura.
 ```
 <!DOCTYPE html>
