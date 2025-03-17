@@ -34,7 +34,7 @@
 
 <h5> A continuación agrego el código. </h5>
 
-Tenemos el codigo HTML y CSS proporcionados por Alura.
+Tenemos el codigo HTML y CSS.
 ```
 <!DOCTYPE html>
 <html lang="es">
